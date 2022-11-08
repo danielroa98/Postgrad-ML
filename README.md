@@ -1,4 +1,4 @@
-# Postgrad-ML
+# Data Science and Machine Learning Applied to Financial Markets
 Scripts and tasks done during the postgraduate in data science and machine learning applied to financial markets.
 
 ## About the file naming convention
