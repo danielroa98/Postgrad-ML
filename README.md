@@ -12,5 +12,9 @@ Whether a lecturer uses a different naming convention, it will be updated here.
 ## Files inside this project
 
 1. [Module 1](./Modulo-1/)
-    1. [First class](./Modulo-1/07_Nov_2022_lec_01_M1G6P_DRG.ipynb)
+    - [Datasets](./Module-1/Data/)
+        - [iris.csv](./Module-1/Data/iris.csv)
+            - Dataset containing the information from _iris_ flowers, that contain characteristics that differentiate the different subspecies between them.
+    1. [Intro to Data Types](./Modulo-1/07_Nov_2022_lec_01_M1G6P_DRG.ipynb)
+    2. [Data Types, Methods and Attributes](./Module-1/09_Nov_2022_lec_02_M1G6P_DRG.ipynb)
 
