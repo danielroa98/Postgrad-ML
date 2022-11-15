@@ -21,8 +21,10 @@ Whether a lecturer uses a different naming convention, it will be updated here.
         - [iris.csv](./Module-1/Datasets/iris.csv)
             - Dataset containing the information from _iris_ flowers, that contain characteristics that differentiate the different subspecies between them.
             - Dataset containing Google's stock prices.
-        -[iris_id.csv](./Module-1/Datasets/iris_id.csv)
-            - 
+        - [iris_id.csv](./Module-1/Datasets/iris_id.csv)
+            - Same dataset as [iris.csv](./Module-1/Datasets/iris.csv), it just contains IDs.
+        - [nba.csv](./Module-1/Datasets/nba.csv)
+            - Dataset containing information from NBA players.
     1. [Intro to Data Types](./Modulo-1/07_Nov_2022_lec_01_M1G6P_DRG.ipynb)
     2. [Data Types, Methods and Attributes](./Module-1/09_Nov_2022_lec_02_M1G6P_DRG.ipynb)
     3. [](./Module-1/14_Nov_2022_lec_03_M1G6P_DRG.ipynb)
