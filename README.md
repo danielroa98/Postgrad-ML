@@ -12,8 +12,8 @@ Whether a lecturer uses a different naming convention, it will be updated here.
 ## Files inside this project
 
 1. [Anaconda Environmenrs](./Anaconda%20Environments/)
-    - Repository used to contain the libraries used during my postgraduate program.
-    - This may not be updated very frequently.
+    - Folder used to contain the environments used during my postgraduate program.
+    - This may not be updated very frequently, unless a module in the program adds a new library.
 
 2. [Module 1](./Modulo-1/)
     - [Datasets](./Module-1/Datasets/)
