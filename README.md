@@ -16,9 +16,6 @@ Whether a lecturer uses a different naming convention, it will be updated here.
 
    - Folder used to contain the libraries used during my postgraduate program.
    - This may not be updated very frequently.
-1. [Anaconda Environments](./Anaconda%20Environments/)
-    - Folder used to contain the environments used during my postgraduate program.
-    - This may not be updated very frequently, unless a module in the program adds a new library.
 
 2. [Module 1](./Modulo-1/)
    - [Datasets](./Module-1/Datasets/) (in no particular order)
