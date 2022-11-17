@@ -32,4 +32,4 @@ Whether a lecturer uses a different naming convention, it will be updated here.
    1. [Intro to Data Types](./Modulo-1/07_Nov_2022_lec_01_M1G6P_DRG.ipynb)
    2. [Data Types, Methods and Attributes](./Module-1/09_Nov_2022_lec_02_M1G6P_DRG.ipynb)
    3. [Intro to DataFrames](./Module-1/14_Nov_2022_lec_03_M1G6P_DRG.ipynb)
-   4. [Lecture 4 - Placeholder](./Module-1/16_Nov_2022_lec_04_M1G6P_DRG.ipynb)
+   4. [Managing ````Null```` Values](./Module-1/16_Nov_2022_lec_04_M1G6P_DRG.ipynb)
