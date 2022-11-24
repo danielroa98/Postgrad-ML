@@ -17,7 +17,7 @@ Whether a lecturer uses a different naming convention, it will be updated here.
    2. [Data Types, Methods and Attributes](./Module-1/09_Nov_2022_lec_02_M1G6P_DRG.ipynb)
    3. [Intro to DataFrames](./Module-1/14_Nov_2022_lec_03_M1G6P_DRG.ipynb)
    4. [Managing `Null` Values](./Module-1/16_Nov_2022_lec_04_M1G6P_DRG.ipynb)
-   5. [](./Module-1/23_Nov_2022_lec_05_M1G6P_DRG.ipynb)
+   5. [Exercise Continuation](./Module-1/23_Nov_2022_lec_05_M1G6P_DRG.ipynb)
 
 ## Additional files, besides the lectures.
 
@@ -29,6 +29,9 @@ Whether a lecturer uses a different naming convention, it will be updated here.
 - [Datasets in Module 1](./Module-1/Datasets/) (in no particular order)
   - [employees.csv](./Module-1/Datasets/employees.csv)
     - Dataset containing basic employee information.
+  - [employees_2.csv](./Module-1/Datasets/employees_2.csv)
+    - Dataset containing basic employee information.
+    - It's different than the previously added [employees.csv](./Module-1/Datasets/employees.csv) dataset.
   - [google-stock-price.csv](./Module-1/Datasets/google_stock_price.csv)
   - [iris.csv](./Module-1/Datasets/iris.csv)
     - Dataset containing the information from _iris_ flowers, that contain characteristics that differentiate the subspecies between them.
