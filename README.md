@@ -13,21 +13,11 @@ Whether a lecturer uses a different naming convention, it will be updated here.
 ## Files inside this project
 
 1. [Module 1](./Modulo-1/)
-   - [Datasets](./Module-1/Datasets/) (in no particular order)
-     - [employees.csv](./Module-1/Datasets/employees.csv)
-       - dfdf
-     - [google-stock-price.csv](./Module-1/Datasets/google_stock_price.csv)
-     - [iris.csv](./Module-1/Datasets/iris.csv)
-       - Dataset containing the information from _iris_ flowers, that contain characteristics that differentiate the subspecies between them.
-       - Dataset containing Google's stock prices.
-     - [iris_id.csv](./Module-1/Datasets/iris_id.csv)
-       - Same dataset as [iris.csv](./Module-1/Datasets/iris.csv), it just contains IDs.
-     - [nba.csv](./Module-1/Datasets/nba.csv)
-       - Dataset containing information from NBA players.
    1. [Intro to Data Types](./Modulo-1/07_Nov_2022_lec_01_M1G6P_DRG.ipynb)
    2. [Data Types, Methods and Attributes](./Module-1/09_Nov_2022_lec_02_M1G6P_DRG.ipynb)
    3. [Intro to DataFrames](./Module-1/14_Nov_2022_lec_03_M1G6P_DRG.ipynb)
    4. [Managing `Null` Values](./Module-1/16_Nov_2022_lec_04_M1G6P_DRG.ipynb)
+   5. [](./Module-1/23_Nov_2022_lec_05_M1G6P_DRG.ipynb)
 
 ## Additional files, besides the lectures.
 
@@ -35,3 +25,15 @@ Whether a lecturer uses a different naming convention, it will be updated here.
 
   - Folder used to contain the libraries used during my postgraduate program.
   - This may not be updated very frequently.
+
+- [Datasets in Module 1](./Module-1/Datasets/) (in no particular order)
+  - [employees.csv](./Module-1/Datasets/employees.csv)
+    - Dataset containing basic employee information.
+  - [google-stock-price.csv](./Module-1/Datasets/google_stock_price.csv)
+  - [iris.csv](./Module-1/Datasets/iris.csv)
+    - Dataset containing the information from _iris_ flowers, that contain characteristics that differentiate the subspecies between them.
+    - Dataset containing Google's stock prices.
+  - [iris_id.csv](./Module-1/Datasets/iris_id.csv)
+    - Same dataset as [iris.csv](./Module-1/Datasets/iris.csv), it just contains IDs.
+  - [nba.csv](./Module-1/Datasets/nba.csv)
+    - Dataset containing information from NBA players.
