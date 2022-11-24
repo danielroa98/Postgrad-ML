@@ -33,9 +33,9 @@ Whether a lecturer uses a different naming convention, it will be updated here.
     - Dataset containing basic employee information.
     - It's different than the previously added [employees.csv](./Module-1/Datasets/employees.csv) dataset.
   - [google-stock-price.csv](./Module-1/Datasets/google_stock_price.csv)
+    - Dataset containing Google's stock prices.
   - [iris.csv](./Module-1/Datasets/iris.csv)
     - Dataset containing the information from _iris_ flowers, that contain characteristics that differentiate the subspecies between them.
-    - Dataset containing Google's stock prices.
   - [iris_id.csv](./Module-1/Datasets/iris_id.csv)
     - Same dataset as [iris.csv](./Module-1/Datasets/iris.csv), it just contains IDs.
   - [nba.csv](./Module-1/Datasets/nba.csv)
