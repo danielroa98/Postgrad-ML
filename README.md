@@ -35,6 +35,9 @@ Whether a lecturer uses a different naming convention, it will be updated here.
   - [employees_2.csv](./Module-1/Datasets/employees_2.csv)
     - Dataset containing basic employee information.
     - It's different than the previously added [employees.csv](./Module-1/Datasets/employees.csv) dataset.
+  - [employees3.csv](./Module-1/Datasets/employees_3.csv)
+    - Dataset containing employee information.
+    - Different information than the information found in [employees.csv](./Module-1/Datasets/employees.csv) and [employees_2.csv](./Module-1/Datasets/employees_2.csv).
   - [google-stock-price.csv](./Module-1/Datasets/google_stock_price.csv)
     - Dataset containing Google's stock prices.
   - [iris.csv](./Module-1/Datasets/iris.csv)
