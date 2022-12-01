@@ -19,7 +19,7 @@ Whether a lecturer uses a different naming convention, it will be updated here.
    4. [Managing `Null` Values](./Module-1/16_Nov_2022_lec_04_M1G6P_DRG.ipynb)
    5. [Exercise Continuation, Conditionals in DataFrames and Logical Operations](./Module-1/23_Nov_2022_lec_05_M1G6P_DRG.ipynb)
    6. [Operations on DataFrames and Loops](./Module-1/28_Nov_2022_lec_06_M1G6P_DRG.ipynb)
-   7. [Additional functions](./Module-1/30_Nov_2022_lec_07_M1G6P_DRG.ipynb)
+   7. [Filter and Map exercises](./Module-1/30_Nov_2022_lec_07_M1G6P_DRG.ipynb)
 
 ## Additional files, besides the lectures.
 
@@ -43,12 +43,3 @@ Whether a lecturer uses a different naming convention, it will be updated here.
     - Same dataset as [iris.csv](./Module-1/Datasets/iris.csv), it just contains IDs.
   - [nba.csv](./Module-1/Datasets/nba.csv)
     - Dataset containing information from NBA players.
-
-- [Module 1 Exams](./Module-1/Examen/)
-
-  - [employees_tarea.csv](./Module-1/Examen/employees_tarea.csv)
-    - Dataset containing employee information.
-      - It was used to solve a couple of exercises from the exam.
-  - [Examen_parcial_M1G6P_Daniel_Roa.ipynb](./Module-1/Examen/Examen_parcial_M1G6P_Daniel_Roa.ipynb)
-    - Jupyter Notebook containing the questions from the exam belonging to the first module.
-    - **IMPORTANT: This file will be added after the delivery date has passed.**
