@@ -20,6 +20,7 @@ Whether a lecturer uses a different naming convention, it will be updated here.
    5. [Exercise Continuation, Conditionals in DataFrames and Logical Operations](./Module-1/23_Nov_2022_lec_05_M1G6P_DRG.ipynb)
    6. [Operations on DataFrames and Loops](./Module-1/28_Nov_2022_lec_06_M1G6P_DRG.ipynb)
    7. [Filter and Map exercises](./Module-1/30_Nov_2022_lec_07_M1G6P_DRG.ipynb)
+   8. [OS (module) and more info on `loc[]` and `iloc[]`](./Module-1/05_Dec_2022_lec_08_M1G6P_DRG.ipynb)
 
 ## Additional files, besides the lectures.
 
