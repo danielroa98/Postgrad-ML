@@ -172,6 +172,7 @@ Module-1/Examen/list_input.py
 Module-1/Examen/problema-4.py
 Module-1/Examen/word_splices.py
 */Examen/*
+*/Examen final/*
 
 # PyCharm
 #  JetBrains specific template is maintained in a separate JetBrains.gitignore that can
@@ -181,3 +182,4 @@ Module-1/Examen/word_splices.py
 #.idea/
 
 # End of https://www.toptal.com/developers/gitignore/api/jupyternotebooks,python
+.DS_Store
