@@ -10,7 +10,7 @@ If a Jupyter Notebook was written by me, it will have the letters **DRG** at the
 
 Whether a lecturer uses a different naming convention, it will be updated here.
 
-## Files inside this project
+## Files and directoires inside this project
 
 1. [Introduction to Python](./Modulo-1/)
    1. [Intro to Data Types](./Module-1/07_Nov_2022_lec_01_M1G6P_DRG.ipynb)
@@ -24,6 +24,9 @@ Whether a lecturer uses a different naming convention, it will be updated here.
    9. [Continuation on `loc[]` and `iloc[]` operations and more methods and their implementations](./Module-1/07_Dec_2022_lec_09_M1G6P_DRG.ipynb)
    10. [Numpy operations and implementations](./Module-1/12_Dec_2022_lec_10_M1G6P_DRG.ipynb)
 2. [Probability and Statistics with Python](./Module-2/)
+3. [Data Science](./Module-3/)
+4. [Machine Learning](./Module-4/)
+5. [Deep Learning](./Module-5/)
 
 ## Additional files, besides the lectures.
 
