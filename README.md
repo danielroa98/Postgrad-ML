@@ -12,7 +12,7 @@ Whether a lecturer uses a different naming convention, it will be updated here.
 
 ## Files inside this project
 
-1. [Module 1](./Modulo-1/)
+1. [Introduction to Python](./Modulo-1/)
    1. [Intro to Data Types](./Module-1/07_Nov_2022_lec_01_M1G6P_DRG.ipynb)
    2. [Data Types, Methods and Attributes](./Module-1/09_Nov_2022_lec_02_M1G6P_DRG.ipynb)
    3. [Intro to DataFrames](./Module-1/14_Nov_2022_lec_03_M1G6P_DRG.ipynb)
@@ -22,6 +22,8 @@ Whether a lecturer uses a different naming convention, it will be updated here.
    7. [Filter and Map exercises](./Module-1/30_Nov_2022_lec_07_M1G6P_DRG.ipynb)
    8. [OS (module) and more info on `loc[]` and `iloc[]`](./Module-1/05_Dec_2022_lec_08_M1G6P_DRG.ipynb)
    9. [Continuation on `loc[]` and `iloc[]` operations and more methods and their implementations](./Module-1/07_Dec_2022_lec_09_M1G6P_DRG.ipynb)
+   10. [Numpy operations and implementations](./Module-1/12_Dec_2022_lec_10_M1G6P_DRG.ipynb)
+2. [Probability and Statistics with Python](./Module-2/)
 
 ## Additional files, besides the lectures.
 
